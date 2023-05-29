@@ -1,3 +1,4 @@
+*I WILL BE UPDATING MY NOTEBOOK SO YOU CAN UNDERSTAND BETTER*
 # Meme-Sentimental-Analysis
 This model is trained on total of 6992 images with 30/70 split ratio
 between test data and train data. 
